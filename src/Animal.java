@@ -1,6 +1,6 @@
 public class Animal {
 
-    private String colour;
+    private String colour;  //this is a test.
 
     public Animal(String colour) {
         System.out.println("An animal was created...");
